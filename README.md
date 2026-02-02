@@ -1,22 +1,4 @@
 # Support
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Procks Support & Help Center</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; max-width: 900px; margin: 0 auto; color: #333; }
-    header { text-align: center; padding: 40px 0; background: #f8f9fa; border-bottom: 1px solid #ddd; }
-    .wip-notice { background: #fff3cd; border: 1px solid #ffeeba; padding: 20px; border-radius: 8px; margin: 20px 0; }
-    h1, h2 { color: #1a1a1a; }
-    section { margin: 30px 0; }
-    ul { list-style-type: disc; padding-left: 20px; }
-    .contact { background: #e9f7ff; padding: 15px; border-radius: 6px; margin: 20px 0; }
-    footer { text-align: center; margin-top: 50px; color: #777; font-size: 0.9em; }
-  </style>
-</head>
-<body>
 
   <header>
     <h1>Procks Support & Help Center</h1>
