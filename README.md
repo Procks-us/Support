@@ -1,5 +1,3 @@
-# Support
-
   <header>
     <h1>Procks Support & Help Center</h1>
     <p>Your go-to place for help, resources, and getting in touch with us.</p>
