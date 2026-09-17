@@ -19,7 +19,7 @@
   <section class="contact">
     <h2>How to Reach Us Right Now</h2>
     <p>For any urgent safety concerns (especially child-related), email our Child Safety Officer directly:</p>
-    <p><strong>markwylie@sbcglobal.net</strong></p>
+    <p><strong>support@procks.com</strong></p>
     <p>For other questions while we build out full support tools, please use this email as well. We'll respond as quickly as possible.</p>
   </section>
 
